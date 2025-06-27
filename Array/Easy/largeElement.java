@@ -1,5 +1,5 @@
 //Recursive approach
-public class tuf {
+public class largeElement {
  
   public static void main(String args[]) {
  
