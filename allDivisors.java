@@ -1,4 +1,4 @@
-import java.util.*;
+/*import java.util.*;
 public class allDivisors {
 
    public static int divisors(int n){
@@ -16,4 +16,4 @@ public class allDivisors {
        System.out.println(result);
 
     }
-}
+}*/
